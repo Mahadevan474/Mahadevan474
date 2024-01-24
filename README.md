@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahadevan474
+- 👋 Hi, I’m @Mahadevan
 - 👀 I’m interested in .Net
 - 🌱 I’m currently learning .NET, WCF Service, MS SQL, VB.NET
 - 💞️ I’m looking to collaborate on ...
